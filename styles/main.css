@@ -83,3 +83,24 @@ img[src$="svg"] {
 }
 
 /************ add your CSS here *****************/
+body {
+  background-color: floralwhite;
+  font-family: "PT Sans";
+  font-size: 16px;
+  color: #444;
+}
+h1 {
+  font-family: "Alex Brush";
+  font-size: 50px;
+  color: #663f46;
+}
+h2 {
+  font-family: "Alex Brush";
+  font-size: 30px;
+  color: #b8c4bb;
+}
+h3 {
+  font-family: "PT Sans";
+  font-size: 20px;
+  color: #d4afb9;
+}
